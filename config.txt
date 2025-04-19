@@ -1,0 +1,2 @@
+project_directory = C:\Users\jhoni\PycharmProjects\Vedder_async_test_launcher
+venv_python = C:\Users\jhoni\PycharmProjects\Vedder_async\.venv\Scripts\python.exe
